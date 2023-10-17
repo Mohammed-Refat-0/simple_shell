@@ -109,5 +109,5 @@ char *lineptr, int count)
 	{
 		freeargv(argv, count);
 	}
-	exit(0);
+	exit(2);
 }

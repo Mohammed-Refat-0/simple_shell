@@ -1,9 +1,7 @@
 #include "main.h"
 /**
  * main - main function of the program "mysimpleshell"
- * argc - command line arguments count
- * argv - command line argruments array of strings
- * envp - array of strings for envirnoment varaiables
+ * Return: void
  */
 int main(void)
 {
